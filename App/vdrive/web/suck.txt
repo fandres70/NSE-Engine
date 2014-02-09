@@ -1,0 +1,134 @@
+<?php
+$stream = file_get_contents('ICICIBANKLAST.txt');
+$avgp = "average"; 
+$high = "previoushigh";
+$low = "previouslow";
+ 
+  echo "&L=".$stream."&"; 
+$temp = file_get_contents("ICICIBANKTEMP.txt", "r");
+  
+
+if ($stream != $temp ) {
+if ( $stream > $temp ) { 
+if ( ($stream > ($avgp + $high)/2) && ($stream < $high)) { echo "&sign=au" ; }
+if ( ($stream < ($avgp + $low)/2) && ($stream > $low)) { echo "&sign=ad" ; }
+if ( $stream < ($low - (($avgp - $low)/2)) ) { echo "&sign=as" ; }
+if ( $stream > ($high + (($high - $avgp)/2)) ) { echo "&sign=al" ; } 
+ if ( ($stream < ($high + (($high - $avgp)/2))) && ($stream > $high)) { echo "&sign=auu" ; }
+if ( ($stream > ($low - (($avgp - $low)/2))) && ($stream < $low)) { echo "&sign=add" ; }
+//else { echo "&sign=a" ; } 
+}
+if ( $stream < $temp ) { 
+ if ( ($stream > ($avgp + $high)/2) && ($stream < $high)) { echo "&sign=bu" ; }
+if ( ($stream < ($avgp + $low)/2) && ($stream > $low)) { echo "&sign=bd" ; }
+if ( $stream < ($low - (($avgp - $low)/2)) ) { echo "&sign=bs" ; }
+if ( $stream > ($high + (($high - $avgp)/2)) ) { echo "&sign=bl" ; } 
+ if ( ($stream < ($high + (($high - $avgp)/2))) && ($stream > $high)) { echo "&sign=buu" ; }
+if ( ($stream > ($low - (($avgp - $low)/2))) && ($stream < $low)) { echo "&sign=bdd" ; }
+// else { echo "&sign=b" ; }
+ }
+$my_time = date('h:i:s',time());
+$seconds2add = 19800;
+
+$new_time= strtotime($my_time);
+$new_time+=$seconds2add;
+
+$time = date('h:i:s',$new_time);
+$filename= 'ICICIBANK.txt'; 
+$file = fopen($filename, "a+" );
+
+fwrite( $file, $stream.":".$time."\r\n" ); 
+
+fclose( $file ); 
+
+
+if (($stream > $high ) && ($temp<= $high ))
+      {$my_time = date('h:i:s',time());
+$seconds2add = 19800;
+
+$new_time= strtotime($my_time);
+$new_time+=$seconds2add;
+
+$time = date('h:i:s',$new_time);
+$risk = ($stream - $low) * (200000/$stream);
+          $filedash = fopen("alert.txt", "a+");
+            $wrote = fputs($filedash, "ICICIBANK:". "breaking:PHIGH:"."Buy Cost:".$risk."\r\n");
+		fclose( $filedash );
+		
+			
+     }   
+
+
+if (($stream < $high ) && ($temp>= $high ))
+      {$my_time = date('h:i:s',time());
+$seconds2add = 19800;
+
+$new_time= strtotime($my_time);
+$new_time+=$seconds2add;
+
+$time = date('h:i:s',$new_time);
+     
+         $filedash = fopen("alert.txt", "a+");
+             $wrote = fputs($filedash, "ICICIBANK:". "retracing:PHIGH:"."\r\n");
+		fclose( $filedash );
+   
+     }   
+
+if (($stream < $low ) && ($temp>= $low ))
+      {$my_time = date('h:i:s',time());
+$seconds2add = 19800;
+
+$new_time= strtotime($my_time);
+$new_time+=$seconds2add;
+$risk = ($high - $stream) * (200000/$stream);
+$time = date('h:i:s',$new_time);
+     $filedash = fopen("alert.txt", "a+");
+         $wrote = fputs($filedash, "ICICIBANK:". "breaking:PLOW:"."short Cost:".$risk."\r\n");
+		fclose( $filedash );
+     }   
+
+if (($stream > $low ) && ($temp<= $low ))
+      {$my_time = date('h:i:s',time());
+$seconds2add = 19800;
+
+$new_time= strtotime($my_time);
+$new_time+=$seconds2add;
+
+$time = date('h:i:s',$new_time);
+    $filedash = fopen("alert.txt", "a+");
+     $wrote = fputs($filedash, "ICICIBANK:". "retracing:PLOW:"."\r\n");
+	fclose( $filedash );
+     }   
+
+if (($stream > $avgp ) && ($temp<= $avgp ))
+      {$my_time = date('h:i:s',time());
+$seconds2add = 19800;
+
+$new_time= strtotime($my_time);
+$new_time+=$seconds2add;
+$risk = ($stream - $low) * (200000/$stream);
+$time = date('h:i:s',$new_time);
+     $filedash = fopen("alert.txt", "a+");
+     $wrote = fputs($filedash, "ICICIBANK:". "sliding up:PAVG:"."Buy Cost:".$risk."\r\n");
+	fclose( $filedash );
+     }   
+
+if (($stream < $avgp ) && ($temp>= $avgp ))
+      {$my_time = date('h:i:s',time());
+$seconds2add = 19800;
+
+$new_time= strtotime($my_time);
+$new_time+=$seconds2add;
+$risk = ($high - $stream) * (200000/$stream);
+$time = date('h:i:s',$new_time);
+     $filedash = fopen("alert.txt", "a+");
+        $wrote = fputs($filedash, "ICICIBANK:". "Sliding down:PAVG:"."Short Cost:".$risk."\r\n");
+	fclose( $filedash );	 
+     }   
+}
+$filedash = fopen("ICICIBANKTEMP.txt", "w");
+        $wrote = fputs($filedash,  $stream);
+	fclose( $filedash );
+
+//echo "&chg=".$json_output['cp']."&"; 
+?>

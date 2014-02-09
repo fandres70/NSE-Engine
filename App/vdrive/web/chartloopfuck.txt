@@ -1,0 +1,42 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/html40/loose.dtd">
+<html>
+<head>
+<!--[if IE]><script type="text/javascript" src="excanvas.js"></script><![endif]-->  
+<script type="text/javascript" src="canvas3DGraph.js"></script>  
+<script type="text/javascript">  
+  
+    window.onload=function(){  
+              
+        //Initialise Graph  
+        var g = new canvasGraph('graph');  
+                  
+        //define some data  
+        gData=new Array();  
+                  
+        gData[0]={x:500,y:500,z:500};  
+        gData[1]={x:10000,y:400,z:600};  
+        gData[2]={x:500,y:300,z:500};  
+        gData[3]={x:500,y:20000,z:800};  
+        gData[4]={x:500,y:100,z:900};  
+  
+        // sort data - draw farest elements first         
+        //gData.sort(sortNumByZ);  
+                  
+        //draw graph   
+        g.drawGraph(gData);   
+  
+    }  
+</script>   
+</head>
+<body>
+<div id="g-holder">  
+    <div id="canvasDiv">  
+        <canvas id="graph" width="6000" height="600" ></canvas>  
+        <div id="gInfo"></div>   
+    </div>  
+    <div id="controls">  
+    <!-- (put your controls here, if you need any) -->  
+    </div>  
+</div>    
+  </body>
+</html>

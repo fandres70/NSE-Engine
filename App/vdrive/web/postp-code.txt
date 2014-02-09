@@ -1,0 +1,20 @@
+$ir++;
+
+for ( $irr = $ir; $irr <= 50; $irr++) 
+{ 
+if (( $sh[$irr] > $sh[$irr+1] ) && ($sh[$irr+1] < $sh[$irr+2]) && ( $sl[$irr] < $sl[$irr+1] ) && ( $stc[$irr] > $sh[$irr+1] ))
+{ $risk = int(($sh[$irr+1] - $sl[$irr+1]) * $qty); $return1 = int(($resistance[1] - $sh[$irr+1] )* $qty);$return2 = int(($resistance[2] - $sh[$irr+1] )* $qty);$return3 = int(($resistance[3] - $sh[$irr+1] )* $qty); $return4 = int(($resistance[4] - $sh[$irr+1] )* $qty);$return5 = int(($resistance[5] - $sh[$irr+1] )* $qty);
+$mtm = 	(($avgp -$sh[$irr+1])*$qty);
+echo "&mtm=".$mtm."&td=WhipLongprice:".$sh[$irr+1]."&tt=before ".$tu. "days on".$sdate[$irr]."&tr=with a risk of:".$risk ."and &tra=a minimal return of:".$return1."at:".$resistance[1]."&trb=an Expected return of:".$return2."at:".$resistance[2]."And &trc=a possible return of:".$return3."at:".$resistance[3]."And &trd=a extensive return of:".$return4."at:".$resistance[4]."And &tre=a beautiful return of:".$return5."at:".$resistance[5]; break;}
+if (( $sl[$irr] < $sl[$irr+1] ) && ($sl[$irr+1] > $sl[$irr+2]) && ( $sh[$irr] > $sh[$irr+1] ) && ( $stc[$irr] < $sl[$irr+1] )) 
+{ $risk = ($sh[$irr+1] - $sl[$irr+1]) * $qty;$return1 = ($sl[$irr+1] -$support[1]) * $qty;$return2 = ($sl[$irr+1] -$support[2]) * $qty;$return3 = ($sl[$irr+1] -$support[3]) * $qty;$return4 = ($sl[$irr+1] -$support[4]) * $qty;$return5 = ($sl[$irr+1] -$support[5]) * $qty;
+$mtm = (($sh[$irr+1]-$avgp)*$qty);
+echo "&mtm=".$mtm."&td=WhipShortprice:".$sl[$irr+1]."&tt=before ".$td. "days on".$sdate[$irr]."&tr=with a risk of:".$risk."and &tra=a minimal return of:".$return1."at:".$support[1]."&trb=an Expected return of:".$return2."at:".$support[2]."And &trc=a possible return of:".$return3."at:".$support[3]."And &trd=an extensive return of:".$return4."at:".$support[4]."And&tre= a lovely return of:".$return5."at:".$support[5]; break;}
+if (( $sh[$irr] > $sh[$irr+1] ) && ($sh[$irr+1] < $sh[$irr+2]))
+ { $risk = ($sh[$irr+1] - $sl[$irr+1]) * $qty; $return1 = ($resistance[1] - $sh[$irr+1] )* $qty;$return2 = ($resistance[2] - $sh[$irr+1] )* $qty;$return3 = ($resistance[3] - $sh[$irr+1] )* $qty; $return4 = ($resistance[4] - $sh[$irr+1] )* $qty;$return5 = ($resistance[5] - $sh[$irr+1] )* $qty;
+$mtm = (($avgp -$sh[$irr+1])*$qty);	
+echo "&mtm=".$mtm."&td=Longprice:".$sh[$irr+1]."&tt=before ".$tu. "days on".$sdate[$irr]."&tr=with a risk of:".$risk ."and &tra=a minimal return of:".$return1."at:".$resistance[1]."&trb=an Expected return of:".$return2."at:".$resistance[2]."And &trc=a possible return of:".$return3."at:".$resistance[3]."And &trd=a extensive return of:".$return4."at:".$resistance[4]."And &tre=a beautiful return of:".$return5."at:".$resistance[5]; break;} 
+   if (( $sl[$irr] < $sl[$irr+1] ) && ($sl[$irr+1] > $sl[$irr+2])) { $risk = ($sh[$irr+1] - $sl[$irr+1]) * $qty;$return1 = ($sl[$irr+1] -$support[1]) * $qty;$return2 = ($sl[$irr+1] -$support[2]) * $qty;$return3 = ($sl[$irr+1] -$support[3]) * $qty;$return4 = ($sl[$irr+1] -$support[4]) * $qty;$return5 = ($sl[$irr+1] -$support[5]) * $qty;
+$mtm = (($sh[$irr+1]-$avgp)*$qty);
+echo "&mtm=".$mtm."&td=Shortprice:".$sl[$irr+1]."&tt=before ".$td. "days on".$sdate[$irr]."&tr=with a risk of:".$risk."and &tra=a minimal return of:".$return1."at:".$support[1]."&trb=an Expected return of:".$return2."at:".$support[2]."And &trc=a possible return of:".$return3."at:".$support[3]."And &trd=an extensive return of:".$return4."at:".$support[4]."And&tre= a lovely return of:".$return5."at:".$support[5]; break;} 
+$tu++;$td++;}

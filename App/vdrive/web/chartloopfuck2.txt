@@ -1,0 +1,23 @@
+﻿
+  
+        // sort data - draw farest elements first         
+        //gData.sort(sortNumByZ);  
+                  
+        //draw graph   
+        g.drawGraph(gData);   
+  
+    }  
+</script>   
+</head>
+<body>
+<div id="g-holder">  
+    <div id="canvasDiv">  
+        <canvas id="graph" width="6000" height="600" ></canvas>  
+        <div id="gInfo"></div>   
+    </div>  
+    <div id="controls">  
+    <!-- (put your controls here, if you need any) -->  
+    </div>  
+</div>    
+  </body>
+</html>

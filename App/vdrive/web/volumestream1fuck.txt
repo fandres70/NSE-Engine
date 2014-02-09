@@ -1,0 +1,105 @@
+
+  
+
+ include ('xmltoarray.php');
+function getTime() 
+    { 
+    $a = explode (' ',microtime()); 
+    return(double) $a[0] + $a[1]; 
+    } 
+
+$mk = 0;
+  for ( $ft = 0; $ft <= 2; $ft++) {$quote = "";$Start = getTime();
+
+$url = "http://www.google.com/ig/api?stock=ABGSHIP&stock=ADANIENT&stock=ADANIPOWER&stock=AMBUJACEM&stock=ASIANPAINT&stock=AUROPHARMA&stock=BAJAJHIND&stock=BALRAMCHIN&stock=BATAINDIA&stock=BEML&stock=BFUTILITIE&stock=BGRENERGY&stock=BHARTIARTL&stock=BHEL&stock=BIOCON&stock=CHAMBLFERT&stock=CIPLA&stock=COLPAL&stock=COREEDUTEC&stock=CROMPGREAV&stock=CUMMINSIND&stock=DABUR&stock=DISHTV&stock=DIVISLAB&stock=DRREDDY&stock=EDUCOMP&stock=FORTIS&stock=GESHIP&stock=GLAXO&stock=GRASIM&stock=GUJFLUORO&stock=GVKPIL&stock=HAVELLS&stock=HINDUNILVR&stock=IDEA&stock=INDHOTEL&stock=INDIACEM&stock=JETAIRWAYS&stock=JPPOWER&stock=JSWENERGY&stock=JUBLFOOD&stock=LUPIN&stock=MCDOWELL-N&stock=MCLEODRUSS&stock=MTNL&stock=NHPC&stock=NMDC&stock=NTPC&stock=ONMOBILE&stock=OPTOCIRCUI&stock=ORCHIDCHEM&stock=PIRHEALTH&stock=POWERGRID&stock=RANBAXY&stock=RCOM&stock=RECLTD&stock=RELINFRA&stock=RENUKA&stock=RPOWER&stock=SIEMENS&stock=STOCK=HEXAWARE&stock=SUNPHARMA&stock=SUNTV&stock=TATACHEM&stock=TATACOMM&stock=TATAPOWER&stock=TTML&stock=ULTRACEMCO&stock=UNIPHOS&stock=VIDEOIND&stock=VOLTAS&stock=ZEEL&stock=ABAN&stock=ANDHRABANK&stock=APIL&stock=APOLLOTYRE&stock=ASHOKLEY&stock=AXISBANK&stock=BAJAJ-AUTO&stock=BANKBARODA&stock=BANKINDIA&stock=BHARATFORG&stock=BHUSANSTL&stock=BOSCHLTD&stock=BPCL&stock=CAIRN&stock=CANBK&stock=COALINDIA&stock=DCB";
+
+
+
+$contents = file_get_contents($url);
+$result = xml2array($contents);
+
+//print_r($result);
+
+/*
+echo "<table border=\"1\" align=\"left\">";
+echo "<tr><th>NAME</th>";
+echo "<th>MCAP</th>";
+echo "<th>VOL</th>";
+echo "<th>Timelag</th></tr>";
+*/
+for ( $i = 0; $i <=69; $i++ ) {
+$srt = $i."_attr";
+/*
+echo "<tr><td>";
+echo $result ['xml_api_reply']['finance'][$i]['symbol_attr']['data']."<br/>";
+echo "</td><td>";
+echo $result ['xml_api_reply']['finance'][$i]['company_attr']['data']."<br/>";
+echo "</td><td>";
+echo $result ['xml_api_reply']['finance'][$i]['market_cap_attr']['data']."<br/>";
+echo "</td><td>";
+echo $result ['xml_api_reply']['finance'][$i]['volume_attr']['data']."<br/>";
+echo "</td><td>";
+echo $result ['xml_api_reply']['finance'][$i]['last_attr']['data']."<br/>";
+echo "</td><td>";
+$tlag = $result ['xml_api_reply']['finance'][$i]['trade_time_utc_attr']['data'] - $result ['xml_api_reply']['finance'][$i]['current_time_utc_attr']['data'];
+echo $tlag."<br/>";
+echo "</td></tr>";
+*/
+$tlag = $result ['xml_api_reply']['finance'][$i]['trade_time_utc_attr']['data'] - $result ['xml_api_reply']['finance'][$i]['current_time_utc_attr']['data'];
+if ( $tlag >-20) {
+
+
+
+$filename= $result ['xml_api_reply']['finance'][$i]['symbol_attr']['data'].'VOLUME.txt'; 
+
+$temp = file_get_contents($filename);
+
+
+$file = fopen($filename, "w" );
+
+fwrite( $file, $result ['xml_api_reply']['finance'][$i]['volume_attr']['data'] ); 
+
+fclose( $file ); 
+//echo $result ['xml_api_reply']['finance'][$i]['symbol_attr']['data'];
+
+if ( $result ['xml_api_reply']['finance'][$i]['volume_attr']['data'] != $temp ) {
+$chg = (($result ['xml_api_reply']['finance'][$i]['volume_attr']['data'] - $temp)/$temp)*100;
+$chg = number_format($chg, 2, '.', '');
+if($chg > 0.6 ) {
+$my_time = date('h:i:s',time());
+$seconds2add = 19800;
+$new_time= strtotime($my_time);
+$new_time+=$seconds2add;
+$time = date('h:i:s',$new_time);
+$open = strtotime("09:15:00");
+
+$p = $new_time - $open;
+$q = (strtotime("15:30:00") - strtotime("09:15:00"));
+$r = $p/$q;
+
+$volchg = (($result ['xml_api_reply']['finance'][$i]['volume_attr']['data']/$r)/$scp[$i])*100;
+$volchg = number_format($volchg, 2, '.', '');
+$filee = fopen("valert.txt", "a+" );
+
+fwrite( $filee, $result ['xml_api_reply']['finance'][$i]['symbol_attr']['data'].":".$result ['xml_api_reply']['finance'][$i]['volume_attr']['data'].":".$chg.":".$volchg."\r\n" ); 
+
+fclose( $filee ); 
+}}
+}
+
+//echo "</table>";
+//print_r($result);
+
+}
+
+
+$End = getTime();
+$much = number_format(($End - $Start),2);
+$jiu = file_get_contents("looplimit.txt");
+if( $ft == $jiu ) { $ft--; };
+$mk ++;
+$file = fopen("looplog.txt", "a+" );
+fwrite( $file, $mk."th - stream in -".$much." seconds."."\r\n" ); 
+fclose( $file );
+}
+?>
