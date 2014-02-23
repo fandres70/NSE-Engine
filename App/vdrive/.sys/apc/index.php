@@ -1,4 +1,4 @@
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 /*
   +----------------------------------------------------------------------+
   | APC                                                                  |
@@ -514,7 +514,7 @@ function block_sort($array1, $array2)
 ?>
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html>
-<head><title>APC INFO <?php echo $host ?></title>
+<head><title>APC INFO /*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/ echo $host ?></title>
 <style><!--
 body { background:white; font-size:100.01%; margin:0; padding:0; }
 body,p,td,th,input,submit { font-size:0.8em;font-family:arial,helvetica,sans-serif; }
@@ -719,11 +719,11 @@ input {
 		<div class="nameinfo">Opcode Cache</div>
 	</h1>
 	<div class="login">
-	<?php put_login_link(); ?>
+	/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/ put_login_link(); ?>
 	</div>
 	<hr class="apc">
 </div>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
 
 // Display main Menu
@@ -1357,6 +1357,6 @@ EOB;
 
 ?>
 
-<!-- <?php echo "\nBased on APCGUI By R.Becker\n$VERSION\n"?> -->
+<!-- /*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/ echo "\nBased on APCGUI By R.Becker\n$VERSION\n"?> -->
 </body>
 </html>

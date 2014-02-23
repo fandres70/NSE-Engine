@@ -1,4 +1,4 @@
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['ICICIBANK'];
 
@@ -32,7 +32,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['SBIN'];
 
@@ -66,7 +66,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['HDFCBANK'];
 
@@ -100,7 +100,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['KOTAKBANK'];
 
@@ -134,7 +134,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['AXISBANK'];
 
@@ -168,7 +168,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['PNB'];
 
@@ -202,7 +202,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['BANKBARODA'];
 
@@ -236,7 +236,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['BANKINDIA'];
 
@@ -270,7 +270,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['YESBANK'];
 
@@ -304,7 +304,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['VIJAYABANK'];
 
@@ -338,7 +338,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['DENABANK'];
 
@@ -372,7 +372,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['ALBK'];
 
@@ -406,7 +406,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['KTKBANK'];
 
@@ -440,7 +440,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['DHANBANK'];
 
@@ -474,7 +474,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['DCB'];
 
@@ -508,7 +508,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['ANDHRABANK'];
 
@@ -542,7 +542,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['INDIANB'];
 
@@ -576,7 +576,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['UCOBANK'];
 
@@ -610,7 +610,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['UNIONBANK'];
 
@@ -644,7 +644,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['SRTRANSFIN'];
 
@@ -678,7 +678,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['LICHSGFIN'];
 
@@ -712,7 +712,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['IOB'];
 
@@ -746,7 +746,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['SYNDIBANK'];
 
@@ -780,7 +780,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['CANBK'];
 
@@ -814,7 +814,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['FEDERALBNK'];
 
@@ -848,7 +848,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['HDFC'];
 
@@ -882,7 +882,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['IDFC'];
 
@@ -916,7 +916,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['IDBI'];
 
@@ -950,7 +950,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['IFCI'];
 
@@ -984,7 +984,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['RELCAPITAL'];
 
@@ -1018,7 +1018,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['INDIAINFO'];
 
@@ -1052,7 +1052,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['PFC'];
 
@@ -1086,7 +1086,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['TATAMOTORS'];
 
@@ -1120,7 +1120,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['BAJAJ-AUTO'];
 
@@ -1154,7 +1154,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['MARUTI'];
 
@@ -1188,7 +1188,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['HEROMOTOCO'];
 
@@ -1222,7 +1222,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['ASHOKLEY'];
 
@@ -1256,7 +1256,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['ESCORTS'];
 
@@ -1290,7 +1290,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['TVSMOTOR'];
 
@@ -1324,7 +1324,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['BHARATFORG'];
 
@@ -1358,7 +1358,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['APOLLOTYRE'];
 
@@ -1392,7 +1392,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['MRF'];
 
@@ -1426,7 +1426,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['BOSCHLTD'];
 
@@ -1460,7 +1460,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['EXIDEIND'];
 
@@ -1494,7 +1494,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['DLF'];
 
@@ -1528,7 +1528,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['UNITECH'];
 
@@ -1562,7 +1562,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['HDIL'];
 
@@ -1596,7 +1596,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['HCC'];
 
@@ -1630,7 +1630,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['NCC'];
 
@@ -1664,7 +1664,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['IBREALEST'];
 
@@ -1698,7 +1698,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['GODREJIND'];
 
@@ -1732,7 +1732,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['SOBHA'];
 
@@ -1766,7 +1766,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['JPASSOCIAT'];
 
@@ -1800,7 +1800,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['APIL'];
 
@@ -1834,7 +1834,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['LITL'];
 
@@ -1868,7 +1868,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['GMRINFRA'];
 
@@ -1902,7 +1902,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['IVRCLINFRA'];
 
@@ -1936,7 +1936,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['RELIANCE'];
 
@@ -1970,7 +1970,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['ONGC'];
 
@@ -2004,7 +2004,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['GSPL'];
 
@@ -2038,7 +2038,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['PETRONET'];
 
@@ -2072,7 +2072,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['MRPL'];
 
@@ -2106,7 +2106,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['ABAN'];
 
@@ -2140,7 +2140,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['GAIL'];
 
@@ -2174,7 +2174,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['BPCL'];
 
@@ -2208,7 +2208,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['HINDPETRO'];
 
@@ -2242,7 +2242,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['OIL'];
 
@@ -2276,7 +2276,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['HINDOILEXP'];
 
@@ -2310,7 +2310,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['ESSAROIL'];
 
@@ -2344,7 +2344,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['IOC'];
 
@@ -2378,7 +2378,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['COALINDIA'];
 
@@ -2412,7 +2412,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['CAIRN'];
 
@@ -2446,7 +2446,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['TATASTEEL'];
 
@@ -2480,7 +2480,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['SAIL'];
 
@@ -2514,7 +2514,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['HINDALCO'];
 
@@ -2548,7 +2548,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['STER'];
 
@@ -2582,7 +2582,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['JSWSTEEL'];
 
@@ -2616,7 +2616,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['JINDALSTEL'];
 
@@ -2650,7 +2650,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['JINDALSAW'];
 
@@ -2684,7 +2684,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['PUNJLLOYD'];
 
@@ -2718,7 +2718,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['BHUSANSTL'];
 
@@ -2752,7 +2752,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['SESAGOA'];
 
@@ -2786,7 +2786,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['JSWISPAT'];
 
@@ -2820,7 +2820,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['WELCORP'];
 
@@ -2854,7 +2854,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['JSWISPAT'];
 
@@ -2888,7 +2888,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['GMDCLTD'];
 
@@ -2922,7 +2922,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['MERCATOR'];
 
@@ -2956,7 +2956,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['INFY'];
 
@@ -2990,7 +2990,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['TCS'];
 
@@ -3024,7 +3024,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['WIPRO'];
 
@@ -3058,7 +3058,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['PATNI'];
 
@@ -3092,7 +3092,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['HCLTECH'];
 
@@ -3126,7 +3126,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['TECHM'];
 
@@ -3160,7 +3160,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['POLARIS'];
 
@@ -3194,7 +3194,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['MPHASIS'];
 
@@ -3228,7 +3228,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['OFSS'];
 
@@ -3262,7 +3262,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['FINANTECH'];
 
@@ -3296,7 +3296,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['ROLTA'];
 
@@ -3330,7 +3330,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['HEXAWARE'];
 
@@ -3364,7 +3364,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['EDUCOMP'];
 
@@ -3398,7 +3398,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['COREEDUTEC'];
 
@@ -3432,7 +3432,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['LT'];
 
@@ -3466,7 +3466,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['BHEL'];
 
@@ -3500,7 +3500,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['ABB'];
 
@@ -3534,7 +3534,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['SIEMENS'];
 
@@ -3568,7 +3568,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['CROMPGREAV'];
 
@@ -3602,7 +3602,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['VOLTAS'];
 
@@ -3636,7 +3636,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['VIDEOIND'];
 
@@ -3670,7 +3670,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['BEL'];
 
@@ -3704,7 +3704,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['BEML'];
 
@@ -3738,7 +3738,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['ACC'];
 
@@ -3772,7 +3772,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['AMBUJACEM'];
 
@@ -3806,7 +3806,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['GRASIM'];
 
@@ -3840,7 +3840,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['INDIACEM'];
 
@@ -3874,7 +3874,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['ULTRACEMCO'];
 
@@ -3908,7 +3908,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['ASIANPAINT'];
 
@@ -3942,7 +3942,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['BHARTIARTL'];
 
@@ -3976,7 +3976,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['RCOM'];
 
@@ -4010,7 +4010,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['IDEA'];
 
@@ -4044,7 +4044,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['ONMOBILE'];
 
@@ -4078,7 +4078,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['MTNL'];
 
@@ -4112,7 +4112,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['TTML'];
 
@@ -4146,7 +4146,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['TATACOMM'];
 
@@ -4180,7 +4180,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['ITC'];
 
@@ -4214,7 +4214,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['HINDUNILVR'];
 
@@ -4248,7 +4248,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['DABUR'];
 
@@ -4282,7 +4282,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['COLPAL'];
 
@@ -4316,7 +4316,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['MCLEODRUSS'];
 
@@ -4350,7 +4350,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['MCDOWELL-N'];
 
@@ -4384,7 +4384,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['BATAINDIA'];
 
@@ -4418,7 +4418,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['RELINFRA'];
 
@@ -4452,7 +4452,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['RPOWER'];
 
@@ -4486,7 +4486,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['TATAPOWER'];
 
@@ -4520,7 +4520,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['POWERGRID'];
 
@@ -4554,7 +4554,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['NTPC'];
 
@@ -4588,7 +4588,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['JPPOWER'];
 
@@ -4622,7 +4622,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['GVKPIL'];
 
@@ -4656,7 +4656,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['BGRENERGY'];
 
@@ -4690,7 +4690,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['ADANIENT'];
 
@@ -4724,7 +4724,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['ADANIPOWER'];
 
@@ -4758,7 +4758,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['BFUTILITIE'];
 
@@ -4792,7 +4792,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['HAVELLS'];
 
@@ -4826,7 +4826,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['JSWENERGY'];
 
@@ -4860,7 +4860,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['NHPC'];
 
@@ -4894,7 +4894,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['NMDC'];
 
@@ -4928,7 +4928,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['RECLTD'];
 
@@ -4962,7 +4962,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['CUMMINSIND'];
 
@@ -4996,7 +4996,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['PTC'];
 
@@ -5030,7 +5030,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['BALRAMCHIN'];
 
@@ -5064,7 +5064,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['BAJAJHIND'];
 
@@ -5098,7 +5098,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['RENUKA'];
 
@@ -5132,7 +5132,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['CHAMBLFERT'];
 
@@ -5166,7 +5166,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['TATACHEM'];
 
@@ -5200,7 +5200,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['ORCHIDCHEM'];
 
@@ -5234,7 +5234,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['UNIPHOS'];
 
@@ -5268,7 +5268,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['GUJFLUORO'];
 
@@ -5302,7 +5302,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['SCI'];
 
@@ -5336,7 +5336,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['GESHIP'];
 
@@ -5370,7 +5370,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['ABGSHIP'];
 
@@ -5404,7 +5404,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['JETAIRWAYS'];
 
@@ -5438,7 +5438,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['INDHOTEL'];
 
@@ -5472,7 +5472,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['SUNTV'];
 
@@ -5506,7 +5506,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['DISHTV'];
 
@@ -5540,7 +5540,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['ZEEL'];
 
@@ -5574,7 +5574,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['SUNPHARMA'];
 
@@ -5608,7 +5608,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['CIPLA'];
 
@@ -5642,7 +5642,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['RANBAXY'];
 
@@ -5676,7 +5676,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['DRREDDY'];
 
@@ -5710,7 +5710,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['FORTIS'];
 
@@ -5744,7 +5744,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['BIOCON'];
 
@@ -5778,7 +5778,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['AUROPHARMA'];
 
@@ -5812,7 +5812,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['PIRHEALTH'];
 
@@ -5846,7 +5846,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['LUPIN'];
 
@@ -5880,7 +5880,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['GLAXO'];
 
@@ -5914,7 +5914,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['DIVISLAB'];
 
@@ -5948,7 +5948,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['OPTOCIRCUI'];
 
@@ -5982,7 +5982,7 @@ fwrite( $file, $json_output['l']."\r\n" );
 fclose( $file ); 
 }
 ?>
-<?php
+/*Copyright (c) <2014> Author Vance King Saxbe. A, and contributors Power Dominion Enterprise, Precieux Consulting and other contributors. Modelled, Architected and designed by Vance King Saxbe. A. with the geeks from GoldSax Consulting and GoldSax Technologies email @vsaxbe@yahoo.com. Development teams from Power Dominion Enterprise, Precieux Consulting. Project sponsored by GoldSax Foundation, GoldSax Group and executed by GoldSax Manager.*/
 
   $temp = $_POST['JUBLFOOD'];
 
