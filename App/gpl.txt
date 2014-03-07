@@ -1,4 +1,4 @@
-GNU GENERAL PUBLIC LICENSE
+/*Owner & Copyrights: Vance King Saxbe. A.*/GNU GENERAL PUBLIC LICENSE
 Version 3, 29 June 2007
 
 Copyright (C) 2007 Free Software Foundation, Inc. <http://fsf.org/>
@@ -618,3 +618,4 @@ Program, unless a warranty or assumption of liability accompanies a
 copy of the Program in return for a fee.
 
 END OF TERMS AND CONDITIONS
+/*email to provide support at vancekingsaxbe@powerdominionenterprise.com, businessaffairs@powerdominionenterprise.com, For donations please write to fundraising@powerdominionenterprise.com*/

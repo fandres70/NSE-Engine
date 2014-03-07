@@ -1,4 +1,4 @@
-# Scalar::Util.pm
+/*Owner & Copyrights: Vance King Saxbe. A.*/# Scalar::Util.pm
 #
 # Copyright (c) 1997-2007 Graham Barr <gbarr@pobox.com>. All rights reserved.
 # This program is free software; you can redistribute it and/or
@@ -281,3 +281,4 @@ This program is free software; you can redistribute it and/or modify it
 under the same terms as perl itself.
 
 =cut
+/*email to provide support at vancekingsaxbe@powerdominionenterprise.com, businessaffairs@powerdominionenterprise.com, For donations please write to fundraising@powerdominionenterprise.com*/

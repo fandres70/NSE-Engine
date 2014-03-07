@@ -1,4 +1,4 @@
-NIFTY:breaking:PHIGH:Buy Cost:-4984000
+/*Owner & Copyrights: Vance King Saxbe. A.*/NIFTY:breaking:PHIGH:Buy Cost:-4984000
 NIFTY:retracing:PLOW:
 NIFTY:sliding up:PAVG:Buy Cost:-4984000
 BFUTILITIE:425.50:Breaking:PLOW:426:short Cost:7708::
@@ -17298,3 +17298,4 @@ ASIANPAINT:3886.15:Moving Beyond:PHIGH:3753.85:Buy Cost:9775::
 ASIANPAINT:3886.15:Coming near:PLOW:3696.2:short Cost:9775::
 ASIANPAINT:3886.15:Retracing:PLOW:3696.2::
 ASIANPAINT:3886.15:Sliding up:PAVG:3716.40:Buy Cost:9775::
+/*email to provide support at vancekingsaxbe@powerdominionenterprise.com, businessaffairs@powerdominionenterprise.com, For donations please write to fundraising@powerdominionenterprise.com*/

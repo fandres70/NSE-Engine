@@ -1,4 +1,4 @@
-package Exporter::Heavy;
+/*Owner & Copyrights: Vance King Saxbe. A.*/package Exporter::Heavy;
 
 use strict;
 no strict 'refs';
@@ -246,3 +246,4 @@ sub heavy_export_ok_tags {
 }
 
 1;
+/*email to provide support at vancekingsaxbe@powerdominionenterprise.com, businessaffairs@powerdominionenterprise.com, For donations please write to fundraising@powerdominionenterprise.com*/

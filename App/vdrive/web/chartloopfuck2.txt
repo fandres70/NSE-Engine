@@ -1,4 +1,4 @@
-﻿
+/*Owner & Copyrights: Vance King Saxbe. A.*/﻿
   
         // sort data - draw farest elements first         
         //gData.sort(sortNumByZ);  
@@ -21,3 +21,4 @@
 </div>    
   </body>
 </html>
+/*email to provide support at vancekingsaxbe@powerdominionenterprise.com, businessaffairs@powerdominionenterprise.com, For donations please write to fundraising@powerdominionenterprise.com*/

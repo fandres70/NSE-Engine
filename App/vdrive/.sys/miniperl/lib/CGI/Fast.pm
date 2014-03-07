@@ -1,4 +1,4 @@
-package CGI::Fast;
+/*Owner & Copyrights: Vance King Saxbe. A.*/package CGI::Fast;
 use strict;
 
 # A way to say "use warnings" that's compatible with even older perls.
@@ -218,3 +218,4 @@ This section intentionally left blank.
 L<CGI::Carp>, L<CGI>
 
 =cut
+/*email to provide support at vancekingsaxbe@powerdominionenterprise.com, businessaffairs@powerdominionenterprise.com, For donations please write to fundraising@powerdominionenterprise.com*/

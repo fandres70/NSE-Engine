@@ -1,4 +1,4 @@
--- Copyright (c) 2003, 2008-2012, Oracle and/or its affiliates. All rights reserved.
+/*Owner & Copyrights: Vance King Saxbe. A.*/-- Copyright (c) 2003, 2008-2012, Oracle and/or its affiliates. All rights reserved.
 --
 -- This program is free software; you can redistribute it and/or modify
 -- it under the terms of the GNU General Public License as published by
@@ -2071,3 +2071,4 @@ insert into help_relation (help_topic_id,help_keyword_id) values (468,461);
 insert into help_relation (help_topic_id,help_keyword_id) values (201,462);
 insert into help_relation (help_topic_id,help_keyword_id) values (468,463);
 
+/*email to provide support at vancekingsaxbe@powerdominionenterprise.com, businessaffairs@powerdominionenterprise.com, For donations please write to fundraising@powerdominionenterprise.com*/

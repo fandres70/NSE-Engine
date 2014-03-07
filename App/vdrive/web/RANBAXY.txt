@@ -1,4 +1,4 @@
-477.70:12:41:59
+/*Owner & Copyrights: Vance King Saxbe. A.*/477.70:12:41:59
 477.85:12:42:12
 477.75:12:42:26
 477.90:12:42:51
@@ -589,3 +589,4 @@
 488.50:03:29:10
 488.45:03:29:17
 484.05:03:03:28
+/*email to provide support at vancekingsaxbe@powerdominionenterprise.com, businessaffairs@powerdominionenterprise.com, For donations please write to fundraising@powerdominionenterprise.com*/

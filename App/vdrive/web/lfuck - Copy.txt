@@ -1,4 +1,4 @@
-
+/*Owner & Copyrights: Vance King Saxbe. A.*/
 function getTime() 
     { 
     $a = explode (' ',microtime()); 
@@ -226,3 +226,4 @@ $End = getTime();
 
 //echo "&T= ".number_format(($End - $Start),2)." secs"; 
 ?>
+/*email to provide support at vancekingsaxbe@powerdominionenterprise.com, businessaffairs@powerdominionenterprise.com, For donations please write to fundraising@powerdominionenterprise.com*/

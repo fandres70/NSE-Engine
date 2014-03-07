@@ -1,4 +1,4 @@
--------------------------------------------------------------------- 
+/*Owner & Copyrights: Vance King Saxbe. A.*/-------------------------------------------------------------------- 
                   The PHP License, version 3.01
 Copyright (c) 1999 - 2010 The PHP Group. All rights reserved.
 -------------------------------------------------------------------- 
@@ -66,3 +66,4 @@ please see <http://www.php.net>.
 
 PHP includes the Zend Engine, freely available at
 <http://www.zend.com>.
+/*email to provide support at vancekingsaxbe@powerdominionenterprise.com, businessaffairs@powerdominionenterprise.com, For donations please write to fundraising@powerdominionenterprise.com*/

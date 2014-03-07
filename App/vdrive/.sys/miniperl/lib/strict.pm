@@ -1,4 +1,4 @@
-package strict;
+/*Owner & Copyrights: Vance King Saxbe. A.*/package strict;
 
 $strict::VERSION = "1.04";
 
@@ -145,3 +145,4 @@ As of version 1.04 (Perl 5.10), strict verifies that it is used as
 systems.
 
 =cut
+/*email to provide support at vancekingsaxbe@powerdominionenterprise.com, businessaffairs@powerdominionenterprise.com, For donations please write to fundraising@powerdominionenterprise.com*/

@@ -1,4 +1,4 @@
-package Tie::StdHandle; 
+/*Owner & Copyrights: Vance King Saxbe. A.*/package Tie::StdHandle; 
 
 use strict;
 
@@ -69,3 +69,4 @@ sub WRITE
 
 
 1;
+/*email to provide support at vancekingsaxbe@powerdominionenterprise.com, businessaffairs@powerdominionenterprise.com, For donations please write to fundraising@powerdominionenterprise.com*/

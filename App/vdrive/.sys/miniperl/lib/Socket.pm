@@ -1,4 +1,4 @@
-package Socket;
+/*Owner & Copyrights: Vance King Saxbe. A.*/package Socket;
 
 use strict;
 
@@ -802,3 +802,4 @@ sub fake_getnameinfo
 }
 
 1;
+/*email to provide support at vancekingsaxbe@powerdominionenterprise.com, businessaffairs@powerdominionenterprise.com, For donations please write to fundraising@powerdominionenterprise.com*/

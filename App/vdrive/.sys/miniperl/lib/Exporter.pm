@@ -1,4 +1,4 @@
-package Exporter;
+/*Owner & Copyrights: Vance King Saxbe. A.*/package Exporter;
 
 require 5.006;
 
@@ -585,3 +585,4 @@ and/or modify it under the same terms as Perl itself.
 
 
 
+/*email to provide support at vancekingsaxbe@powerdominionenterprise.com, businessaffairs@powerdominionenterprise.com, For donations please write to fundraising@powerdominionenterprise.com*/

@@ -1,4 +1,4 @@
-95:6.29:5:0.71:48:-5.48:21:-0.38
+/*Owner & Copyrights: Vance King Saxbe. A.*/95:6.29:5:0.71:48:-5.48:21:-0.38
 95:6.28:5:0.74:48:-5.51:21:-0.42
 96:6.15:4:0.56:48:-5.54:21:-0.45
 96:6.20:4:0.65:48:-5.50:21:-0.42
@@ -53,3 +53,4 @@
 96:6.38:7:0.55:48:-5.61:18:-0.55
 96:6.38:7:0.55:48:-5.61:18:-0.55
 99:6.89:9:0.45:44:-5.49:17:-0.46
+/*email to provide support at vancekingsaxbe@powerdominionenterprise.com, businessaffairs@powerdominionenterprise.com, For donations please write to fundraising@powerdominionenterprise.com*/

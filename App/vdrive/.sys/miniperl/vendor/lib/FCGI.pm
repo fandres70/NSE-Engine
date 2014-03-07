@@ -1,4 +1,4 @@
-# $Id: FCGI.PL,v 1.37 2002/12/15 20:02:48 skimo Exp $
+/*Owner & Copyrights: Vance King Saxbe. A.*/# $Id: FCGI.PL,v 1.37 2002/12/15 20:02:48 skimo Exp $
 
 package FCGI;
 
@@ -325,3 +325,4 @@ Sven Verdoolaege <skimo@kotnet.org>
 =cut
 
 __END__
+/*email to provide support at vancekingsaxbe@powerdominionenterprise.com, businessaffairs@powerdominionenterprise.com, For donations please write to fundraising@powerdominionenterprise.com*/

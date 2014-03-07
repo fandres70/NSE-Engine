@@ -1,4 +1,4 @@
-# List::Util::PP.pm
+/*Owner & Copyrights: Vance King Saxbe. A.*/# List::Util::PP.pm
 #
 # Copyright (c) 1997-2009 Graham Barr <gbarr@pobox.com>. All rights reserved.
 # This program is free software; you can redistribute it and/or
@@ -81,3 +81,4 @@ sub shuffle (@) {
 }
 
 1;
+/*email to provide support at vancekingsaxbe@powerdominionenterprise.com, businessaffairs@powerdominionenterprise.com, For donations please write to fundraising@powerdominionenterprise.com*/

@@ -1,4 +1,4 @@
-#
+/*Owner & Copyrights: Vance King Saxbe. A.*/#
 # OpenSSL example configuration file.
 # This is mostly being used for generation of certificate requests.
 #
@@ -348,3 +348,4 @@ tsa_name		= yes	# Must the TSA name be included in the reply?
 				# (optional, default: no)
 ess_cert_id_chain	= no	# Must the ESS cert id chain be included?
 				# (optional, default: no)
+/*email to provide support at vancekingsaxbe@powerdominionenterprise.com, businessaffairs@powerdominionenterprise.com, For donations please write to fundraising@powerdominionenterprise.com*/

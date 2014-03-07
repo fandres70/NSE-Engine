@@ -1,4 +1,4 @@
-
+/*Owner & Copyrights: Vance King Saxbe. A.*/
                      The Apache HTTP Server Project
 
                         http://httpd.apache.org/
@@ -242,3 +242,4 @@ as described in the LICENSE file.
 
 Thanks for using Apache HTTP Server!
 
+/*email to provide support at vancekingsaxbe@powerdominionenterprise.com, businessaffairs@powerdominionenterprise.com, For donations please write to fundraising@powerdominionenterprise.com*/

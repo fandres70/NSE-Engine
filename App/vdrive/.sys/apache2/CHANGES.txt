@@ -1,4 +1,4 @@
-                                                         -*- coding: utf-8 -*-
+/*Owner & Copyrights: Vance King Saxbe. A.*/                                                         -*- coding: utf-8 -*-
 
 Changes with Apache 2.4.2
 
@@ -2532,3 +2532,4 @@ Changes with Apache 2.0.x and later:
 
   *) http://svn.apache.org/viewvc/httpd/httpd/branches/2.0.x/CHANGES?view=markup
 
+/*email to provide support at vancekingsaxbe@powerdominionenterprise.com, businessaffairs@powerdominionenterprise.com, For donations please write to fundraising@powerdominionenterprise.com*/

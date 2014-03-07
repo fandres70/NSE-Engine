@@ -1,4 +1,4 @@
-# Generated from XSLoader.pm.PL (resolved %Config::Config value)
+/*Owner & Copyrights: Vance King Saxbe. A.*/# Generated from XSLoader.pm.PL (resolved %Config::Config value)
 
 package XSLoader;
 
@@ -356,3 +356,4 @@ This program is free software; you can redistribute it and/or modify
 it under the same terms as Perl itself.
 
 =cut
+/*email to provide support at vancekingsaxbe@powerdominionenterprise.com, businessaffairs@powerdominionenterprise.com, For donations please write to fundraising@powerdominionenterprise.com*/

@@ -1,4 +1,4 @@
-<?php
+/*Owner & Copyrights: Vance King Saxbe. A.*/<?php
 $json_output['l'] = file_get_contents('ICICIBANKLAST.TXT');
 $avgp = "average"; 
 $high = "previoushigh";
@@ -271,4 +271,4 @@ $filedash = fopen("ICICIBANKTEMP.txt", "w");
 	fclose( $filedash );
 
 //echo "&chg=".$json_output['cp']."&"; 
-?>
+?>/*email to provide support at vancekingsaxbe@powerdominionenterprise.com, businessaffairs@powerdominionenterprise.com, For donations please write to fundraising@powerdominionenterprise.com*/

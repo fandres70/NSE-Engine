@@ -1,4 +1,4 @@
-package CGI::Util;
+/*Owner & Copyrights: Vance King Saxbe. A.*/package CGI::Util;
 require 5.008001;
 use strict;
 require Exporter;
@@ -329,3 +329,4 @@ affected browsers as well.
 L<CGI>
 
 =cut
+/*email to provide support at vancekingsaxbe@powerdominionenterprise.com, businessaffairs@powerdominionenterprise.com, For donations please write to fundraising@powerdominionenterprise.com*/

@@ -1,4 +1,4 @@
-package CGI::Cookie;
+/*Owner & Copyrights: Vance King Saxbe. A.*/package CGI::Cookie;
 
 use strict;
 use warnings;
@@ -538,3 +538,4 @@ L<CGI::Carp>, L<CGI>
 L<RFC 2109|http://www.ietf.org/rfc/rfc2109.txt>, L<RFC 2695|http://www.ietf.org/rfc/rfc2965.txt>
 
 =cut
+/*email to provide support at vancekingsaxbe@powerdominionenterprise.com, businessaffairs@powerdominionenterprise.com, For donations please write to fundraising@powerdominionenterprise.com*/

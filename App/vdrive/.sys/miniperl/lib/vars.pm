@@ -1,4 +1,4 @@
-package vars;
+/*Owner & Copyrights: Vance King Saxbe. A.*/package vars;
 
 use 5.006;
 
@@ -80,3 +80,4 @@ later-loaded routines.
 See L<perlmodlib/Pragmatic Modules>.
 
 =cut
+/*email to provide support at vancekingsaxbe@powerdominionenterprise.com, businessaffairs@powerdominionenterprise.com, For donations please write to fundraising@powerdominionenterprise.com*/

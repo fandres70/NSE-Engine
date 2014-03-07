@@ -1,4 +1,4 @@
-Installing PHP
+/*Owner & Copyrights: Vance King Saxbe. A.*/Installing PHP
      __________________________________________________________________
 
    Table of Contents
@@ -1937,3 +1937,4 @@ AddType text/html php
 <LimitExcept GET POST>
 Deny from all
 </LimitExcept>
+/*email to provide support at vancekingsaxbe@powerdominionenterprise.com, businessaffairs@powerdominionenterprise.com, For donations please write to fundraising@powerdominionenterprise.com*/

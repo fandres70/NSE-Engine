@@ -1,4 +1,4 @@
-package Carp;
+/*Owner & Copyrights: Vance King Saxbe. A.*/package Carp;
 
 { use 5.006; }
 use strict;
@@ -644,3 +644,4 @@ Copyright (C) 2011 Andrew Main (Zefram) <zefram@fysh.org>
 
 This module is free software; you can redistribute it and/or modify it
 under the same terms as Perl itself.
+/*email to provide support at vancekingsaxbe@powerdominionenterprise.com, businessaffairs@powerdominionenterprise.com, For donations please write to fundraising@powerdominionenterprise.com*/

@@ -1,4 +1,4 @@
-package constant;
+/*Owner & Copyrights: Vance King Saxbe. A.*/package constant;
 use 5.005;
 use strict;
 use warnings::register;
@@ -395,3 +395,4 @@ This module is free software; you can redistribute it or modify it
 under the same terms as Perl itself.
 
 =cut
+/*email to provide support at vancekingsaxbe@powerdominionenterprise.com, businessaffairs@powerdominionenterprise.com, For donations please write to fundraising@powerdominionenterprise.com*/

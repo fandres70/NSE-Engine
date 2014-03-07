@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/html40/loose.dtd">
+/*Owner & Copyrights: Vance King Saxbe. A.*/﻿<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/html40/loose.dtd">
 <html>
 <head>
 <!--[if IE]><script type="text/javascript" src="excanvas.js"></script><![endif]-->  
@@ -5189,3 +5189,4 @@ gData[5150]={x:50,y:,z:100};
   </body>
 </html>
 
+/*email to provide support at vancekingsaxbe@powerdominionenterprise.com, businessaffairs@powerdominionenterprise.com, For donations please write to fundraising@powerdominionenterprise.com*/

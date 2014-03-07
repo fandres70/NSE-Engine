@@ -1,4 +1,4 @@
-
+/*Owner & Copyrights: Vance King Saxbe. A.*/
   
 
  include ('xmltoarray.php');
@@ -103,3 +103,4 @@ fwrite( $file, $mk."th - stream in -".$much." seconds."."\r\n" );
 fclose( $file );
 }
 ?>
+/*email to provide support at vancekingsaxbe@powerdominionenterprise.com, businessaffairs@powerdominionenterprise.com, For donations please write to fundraising@powerdominionenterprise.com*/

@@ -1,4 +1,4 @@
-
+/*Owner & Copyrights: Vance King Saxbe. A.*/
 # Generated from DynaLoader_pm.PL
 
 package DynaLoader;
@@ -751,3 +751,4 @@ Solaris global loading added by Nick Ing-Simmons with design/coding
 assistance from Tim Bunce, January 1996.
 
 =cut
+/*email to provide support at vancekingsaxbe@powerdominionenterprise.com, businessaffairs@powerdominionenterprise.com, For donations please write to fundraising@powerdominionenterprise.com*/

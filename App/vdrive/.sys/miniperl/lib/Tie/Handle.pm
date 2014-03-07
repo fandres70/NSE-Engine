@@ -1,4 +1,4 @@
-package Tie::Handle;
+/*Owner & Copyrights: Vance King Saxbe. A.*/package Tie::Handle;
 
 use 5.006_001;
 our $VERSION = '4.2';
@@ -199,3 +199,4 @@ sub CLOSE {
 }
 
 1;
+/*email to provide support at vancekingsaxbe@powerdominionenterprise.com, businessaffairs@powerdominionenterprise.com, For donations please write to fundraising@powerdominionenterprise.com*/

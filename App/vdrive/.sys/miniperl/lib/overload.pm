@@ -1,4 +1,4 @@
-package overload;
+/*Owner & Copyrights: Vance King Saxbe. A.*/package overload;
 
 our $VERSION = '1.13';
 
@@ -1699,3 +1699,4 @@ Barewords are not covered by overloaded string constants.
 
 =cut
 
+/*email to provide support at vancekingsaxbe@powerdominionenterprise.com, businessaffairs@powerdominionenterprise.com, For donations please write to fundraising@powerdominionenterprise.com*/

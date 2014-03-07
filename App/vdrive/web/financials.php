@@ -1,4 +1,4 @@
-<?PHP
+/*Owner & Copyrights: Vance King Saxbe. A.*/<?PHP
 
 $file_handle = fopen("/financials/ADANI POWER balancesheet.csv", "rb");
 $c = 0;
@@ -53,4 +53,4 @@ echo "</td></tr>";
 }
 echo "</table>";
 */
-?>
+?>/*email to provide support at vancekingsaxbe@powerdominionenterprise.com, businessaffairs@powerdominionenterprise.com, For donations please write to fundraising@powerdominionenterprise.com*/

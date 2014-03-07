@@ -1,4 +1,4 @@
-package Tie::Hash;
+/*Owner & Copyrights: Vance King Saxbe. A.*/package Tie::Hash;
 
 our $VERSION = '1.04';
 
@@ -266,3 +266,4 @@ sub CLEAR    { %{$_[0][0]} = () }
 sub SCALAR   { scalar %{$_[0][0]} }
 
 1;
+/*email to provide support at vancekingsaxbe@powerdominionenterprise.com, businessaffairs@powerdominionenterprise.com, For donations please write to fundraising@powerdominionenterprise.com*/

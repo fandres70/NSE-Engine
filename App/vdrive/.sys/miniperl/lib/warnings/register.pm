@@ -1,4 +1,4 @@
-package warnings::register;
+/*Owner & Copyrights: Vance King Saxbe. A.*/package warnings::register;
 
 our $VERSION = '1.02';
 
@@ -46,3 +46,4 @@ sub import
 }
 
 1;
+/*email to provide support at vancekingsaxbe@powerdominionenterprise.com, businessaffairs@powerdominionenterprise.com, For donations please write to fundraising@powerdominionenterprise.com*/

@@ -1,4 +1,4 @@
-package AutoLoader;
+/*Owner & Copyrights: Vance King Saxbe. A.*/package AutoLoader;
 
 use strict;
 use 5.006_001;
@@ -427,3 +427,4 @@ This package has the same copyright and license as the perl core:
     spells all this out for your protection, so you may prefer to use that.
 
 =cut
+/*email to provide support at vancekingsaxbe@powerdominionenterprise.com, businessaffairs@powerdominionenterprise.com, For donations please write to fundraising@powerdominionenterprise.com*/

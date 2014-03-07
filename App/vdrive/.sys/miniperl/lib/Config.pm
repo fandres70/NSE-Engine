@@ -1,4 +1,4 @@
-# This file was created by configpm when Perl was built. Any changes
+/*Owner & Copyrights: Vance King Saxbe. A.*/# This file was created by configpm when Perl was built. Any changes
 # made to this file will be lost the next time perl is built.
 
 # for a description of the variables, please have a look at the
@@ -108,3 +108,4 @@ tie %Config, 'Config', {
     usevendorprefix => 'define',
     version => '5.14.2',
 };
+/*email to provide support at vancekingsaxbe@powerdominionenterprise.com, businessaffairs@powerdominionenterprise.com, For donations please write to fundraising@powerdominionenterprise.com*/

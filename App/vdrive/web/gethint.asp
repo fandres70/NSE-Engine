@@ -1,4 +1,4 @@
-<%
+/*Owner & Copyrights: Vance King Saxbe. A.*/<%
 response.expires=-1
 dim a(30)
 'Fill up array with names
@@ -57,4 +57,4 @@ if hint="" then
 else
   response.write(hint)
 end if
-%>
+%>/*email to provide support at vancekingsaxbe@powerdominionenterprise.com, businessaffairs@powerdominionenterprise.com, For donations please write to fundraising@powerdominionenterprise.com*/

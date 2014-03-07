@@ -1,4 +1,4 @@
-#      B.pm
+/*Owner & Copyrights: Vance King Saxbe. A.*/#      B.pm
 #
 #      Copyright (c) 1996, 1997, 1998 Malcolm Beattie
 #
@@ -1200,3 +1200,4 @@ Only when perl was compiled with ithreads.
 Malcolm Beattie, C<mbeattie@sable.ox.ac.uk>
 
 =cut
+/*email to provide support at vancekingsaxbe@powerdominionenterprise.com, businessaffairs@powerdominionenterprise.com, For donations please write to fundraising@powerdominionenterprise.com*/

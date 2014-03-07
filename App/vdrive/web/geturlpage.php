@@ -1,4 +1,4 @@
-<?PHP
+/*Owner & Copyrights: Vance King Saxbe. A.*/<?PHP
   
 $u[0] = "http://www.bloomberg.com/news/canada/";
 $u[1] = "http://www.bloomberg.com/news/india-pakistan/";
@@ -69,4 +69,4 @@ fclose( $file );
 }
   
 }}}
-?>
+?>/*email to provide support at vancekingsaxbe@powerdominionenterprise.com, businessaffairs@powerdominionenterprise.com, For donations please write to fundraising@powerdominionenterprise.com*/

@@ -1,4 +1,4 @@
-1th - stream in -21.12 seconds.
+/*Owner & Copyrights: Vance King Saxbe. A.*/1th - stream in -21.12 seconds.
 2th - stream in -20.43 seconds.
 3th - stream in -15.74 seconds.
 4th - stream in -16.29 seconds.
@@ -796,3 +796,4 @@
 95th - stream in -22.08 seconds.
 96th - stream in -13.97 seconds.
 97th - stream in -17.44 seconds.
+/*email to provide support at vancekingsaxbe@powerdominionenterprise.com, businessaffairs@powerdominionenterprise.com, For donations please write to fundraising@powerdominionenterprise.com*/

@@ -1,4 +1,4 @@
-$ir++;
+/*Owner & Copyrights: Vance King Saxbe. A.*/$ir++;
 
 for ( $irr = $ir; $irr <= 50; $irr++) 
 { 
@@ -18,3 +18,4 @@ echo "&mtm=".$mtm."&td=Longprice:".$sh[$irr+1]."&tt=before ".$tu. "days on".$sda
 $mtm = (($sh[$irr+1]-$avgp)*$qty);
 echo "&mtm=".$mtm."&td=Shortprice:".$sl[$irr+1]."&tt=before ".$td. "days on".$sdate[$irr]."&tr=with a risk of:".$risk."and &tra=a minimal return of:".$return1."at:".$support[1]."&trb=an Expected return of:".$return2."at:".$support[2]."And &trc=a possible return of:".$return3."at:".$support[3]."And &trd=an extensive return of:".$return4."at:".$support[4]."And&tre= a lovely return of:".$return5."at:".$support[5]; break;} 
 $tu++;$td++;}
+/*email to provide support at vancekingsaxbe@powerdominionenterprise.com, businessaffairs@powerdominionenterprise.com, For donations please write to fundraising@powerdominionenterprise.com*/

@@ -1,4 +1,4 @@
--- Copyright (c) 2007, 2011, Oracle and/or its affiliates. All rights reserved.
+/*Owner & Copyrights: Vance King Saxbe. A.*/-- Copyright (c) 2007, 2011, Oracle and/or its affiliates. All rights reserved.
 --
 -- This program is free software; you can redistribute it and/or modify
 -- it under the terms of the GNU General Public License as published by
@@ -482,3 +482,4 @@ CREATE TABLE IF NOT EXISTS proxies_priv (Host char(60) binary DEFAULT '' NOT NUL
 
 -- Remember for later if proxies_priv table already existed
 set @had_proxies_priv_table= @@warning_count != 0;
+/*email to provide support at vancekingsaxbe@powerdominionenterprise.com, businessaffairs@powerdominionenterprise.com, For donations please write to fundraising@powerdominionenterprise.com*/
